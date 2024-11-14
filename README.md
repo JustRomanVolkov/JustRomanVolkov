@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Roman Volkov👋
+## I have 2 years of professional experience.
 
-<!--
-**JustRomanVolkov/JustRomanVolkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ **Technical Skills:**
+- **Languages:** Python
+- **Web Frameworks:** Django + DRF, FastAPI
+- **Databases:** PostgreSQL (including PostGIS)
+- **Task Queues:** Celery, RabbitMQ
+- **Caching:** Redis
+- **Version Control:** Git Flow
+- **Dependency Management & Packaging:** Poetry
+- **Containerization:** Docker Compose
+- **Authentication:** Simple JWT, Django REST Registration
+- **API Documentation:** Swagger (drf-spectacular)
+- **Web Servers & Security:** Nginx, SSL
+- **Others:** OpenAI, Scikit-learn, Pandas, Aiogram
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ **About me:**
+For 11 years, I worked as a design engineer for water supply systems in various sectors such as airports, shopping malls, hotels, healthcare facilities, residential buildings, and industrial enterprises. Over 6 years, I advanced to the role of chief specialist, and 2 years later, I became the head of a project group of 10 people. During my engineering career, I encountered tasks that required writing scripts to automate drawing and calculations, which sparked my interest in Python.
